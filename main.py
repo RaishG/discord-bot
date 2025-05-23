@@ -55,5 +55,5 @@ async def durations(ctx):
     await ctx.send(file=picture)
 
 
-bot.run("MTM2NTI5MzQ3MDI2NDA3MDE3NQ.GNEAUU.7B_y8fiKRBD0MhYN1nt8haHNx6kS4HdZVIdmHs")
+bot.run("Token")
 
